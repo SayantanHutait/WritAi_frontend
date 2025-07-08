@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(1, 1, 0) !important;
+  color: #e5e2e2 !important;
+}
+
+textarea::placeholder {
+  color: rgb(89, 88, 86) !important;
+}

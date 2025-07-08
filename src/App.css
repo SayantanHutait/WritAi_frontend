@@ -1,0 +1,11 @@
+.app-contanier {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    /* background-color: rgba(250, 235, 215, 0.399) !important; */
+    background-color: rgb(1, 1, 0) !important;
+    color: #e5e2e2 !important;
+}
+

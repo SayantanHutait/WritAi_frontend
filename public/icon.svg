@@ -1,0 +1,22 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Journal Page -->
+  <rect x="12" y="8" width="40" height="48" rx="4" ry="4" fill="#FFFFFF" stroke="#4A4A4A" stroke-width="2"></rect>
+  
+  <!-- Pen Symbol -->
+  <path d="M20 48 L40 28 L44 32 L24 52 L20 52 Z" fill="#4A90E2" stroke="#2C3E50" stroke-width="1"></path>
+  <circle cx="42" cy="30" r="1.5" fill="#000"></circle>
+
+  <!-- AI Node Network -->
+  <circle cx="48" cy="16" r="3" fill="#F39C12"></circle>
+  <circle cx="56" cy="20" r="2.5" fill="#F39C12"></circle>
+  <circle cx="48" cy="24" r="2.5" fill="#F39C12"></circle>
+  <circle cx="40" cy="20" r="2.5" fill="#F39C12"></circle>
+  <line x1="48" y1="16" x2="56" y2="20" stroke="#F39C12" stroke-width="1.5"></line>
+  <line x1="48" y1="16" x2="48" y2="24" stroke="#F39C12" stroke-width="1.5"></line>
+  <line x1="48" y1="16" x2="40" y2="20" stroke="#F39C12" stroke-width="1.5"></line>
+
+  <!-- Lines in Journal -->
+  <line x1="16" y1="20" x2="36" y2="20" stroke="#D3D3D3" stroke-width="1"></line>
+  <line x1="16" y1="26" x2="36" y2="26" stroke="#D3D3D3" stroke-width="1"></line>
+  <line x1="16" y1="32" x2="36" y2="32" stroke="#D3D3D3" stroke-width="1"></line>
+</svg>
